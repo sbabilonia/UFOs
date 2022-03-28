@@ -1,0 +1,16 @@
+body {
+    color: white;
+}
+
+
+/* tells sytle sheet to apply changes only to divs class="jumbotron"
+specified background image path
+size of background set to span the entire element
+align text to center */
+
+
+.jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
