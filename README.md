@@ -13,7 +13,7 @@ Summary:
 The summary addresses one drawback of this webpage (2 pt)
 The summary addresses two additional recommendations for further development (4 pt)
 
-The purpose of this analysis was to demonstrate the use of JavaScript and HTML primarily (with a few lines of CSS) to build a small local website containing information about UFO sightings. The use of JavaScript in this project was implemented to code functions which apply tables and formatting to the website, featuring BootStrap, to display UFO data in an easy to use website. JS was also used to create filters to search for the date, city, state, country, and shape of each UFO sighting. 
+The purpose of this analysis was to demonstrate the use of JavaScript and HTML primarily (with a few lines of CSS) to build a small local website containing information about UFO sightings. The use of JavaScript in this project was implemented to code functions which apply tables and formatting to the website featuring BootStrap to enhance the html layout. JS was also used to create filters for user input to search for the date, city, state, country, and shape of each UFO sighting. 
 
 HTML code made use of Bootstrap library to format the website
 ![image](https://user-images.githubusercontent.com/99628763/160309773-82b50c21-c13a-4534-9379-64f449edb60b.png)
